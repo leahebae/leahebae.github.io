@@ -6,5 +6,302 @@
   <title>Leah's CityStudio application</title>
 </head>
 <body>
-<p>hold</p>
+
+  
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html lang="en-US" prefix="og: http://ogp.me/ns#" class="ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en-US" prefix="og: http://ogp.me/ns#" class="ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en-US" prefix="og: http://ogp.me/ns#" class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en-US" prefix="og: http://ogp.me/ns#" class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en-US" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+
+<head>
+	<meta name="google-site-verification" content="Cr_zAaQULOcL1PyrDyWwv9ii-b1tofFVEQ4FXZWqVxY" />
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="chrome=1">
+	
+	
+	<meta name="author" content="">
+	<!--  Mobile Viewport Fix -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<!-- Place favicon.ico and apple-touch-icon.png in the images folder -->
+	<link rel="shortcut icon" href="http://citystudiovancouver.com/wp-content/themes/citystudio/images/favicon.ico">
+	<link rel="apple-touch-icon" href="http://citystudiovancouver.com/wp-content/themes/citystudio/images/apple-touch-icon.png"><!--60X60-->
+	
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="stylesheet" href="http://citystudiovancouver.com/wp-content/themes/citystudio/css/print.css" type="text/css" media="print" />
+	<!--[if lt IE 8]><link rel="stylesheet" href="http://citystudiovancouver.com/wp-content/themes/citystudio/css/ie.css"><![endif]-->
+	<link rel="stylesheet" href="http://citystudiovancouver.com/wp-content/themes/citystudio/css/style.css?" type="text/css" media="screen, projection" />
+	
+	<script src="http://citystudiovancouver.com/wp-content/themes/citystudio/js/modernizr.js"></script>
+	
+		<link rel="pingback" href="http://citystudiovancouver.com/xmlrpc.php" />
+	
+	<!--[if lt IE 9]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<!--[if !IE 7]>
+	<style type="text/css">
+		#wrap {display:table;height:100%}
+	</style>
+	<![endif]-->
+	
+<!-- This site is optimized with the Yoast SEO plugin v3.1.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Join Us! - CityStudio</title>
+<link rel="canonical" href="http://citystudiovancouver.com/opportunities/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Join Us! - CityStudio" />
+<meta property="og:description" content="Like what you see? Get involved!
+[do action=&quot;clear&quot;/]
+Student Opportunities
+Are you a student interested in working on real world demonstration projects towards making Vancouver the Greenest City in the World? And get credits?
+Find out more →
+[do action=&quot;clear&quot;/]
+Faculty Opportunities
+Partner Courses are existing courses on our partner campuses that relate their course content, curriculum and assignments to the Vancouver´s Greenest City themes being addressed each term by the CityStudio.
+Find out more →
+[do action=&quot;clear&quot;/]
+Mentorship Opportunities
+Are you a student interested in working on real world demonstration projects towards making Vancouver the Greenest City in the World? And get credits?
+Find out more →
+[do action=&quot;clear&quot;/]" />
+<meta property="og:url" content="http://citystudiovancouver.com/opportunities/" />
+<meta property="og:site_name" content="CityStudio" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="CityStudio &raquo; Feed" href="http://citystudiovancouver.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="CityStudio &raquo; Comments Feed" href="http://citystudiovancouver.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/citystudiovancouver.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=15a2b17ae0e0c3d3a7f899370e0f050e"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://citystudiovancouver.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=15a2b17ae0e0c3d3a7f899370e0f050e' type='text/css' media='all' />
+<link rel='stylesheet' id='social-widget-css'  href='http://citystudiovancouver.com/wp-content/plugins/social-media-widget/social_widget.css?ver=15a2b17ae0e0c3d3a7f899370e0f050e' type='text/css' media='all' />
+<link rel='stylesheet' id='cleaner-gallery-css'  href='http://citystudiovancouver.com/wp-content/plugins/cleaner-gallery/css/gallery.min.css?ver=15a2b17ae0e0c3d3a7f899370e0f050e' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://citystudiovancouver.com/wp-includes/css/dashicons.min.css?ver=15a2b17ae0e0c3d3a7f899370e0f050e' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='http://citystudiovancouver.com/wp-includes/js/thickbox/thickbox.css?ver=15a2b17ae0e0c3d3a7f899370e0f050e' type='text/css' media='all' />
+<link rel='stylesheet' id='wpui-jqueryui-css'  href='http://citystudiovancouver.com/wp-content/plugins/wp-ui/css/jquery-ui-wp-fix.css?ver=15a2b17ae0e0c3d3a7f899370e0f050e' type='text/css' media='all' />
+<link rel='stylesheet' id='citystudio-ui-css'  href='http://66.147.244.223/~citystu3/wp-content/uploads/wp-ui/citystudio-ui/jquery-ui-1.8.18.custom.css?ver=15a2b17ae0e0c3d3a7f899370e0f050e' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-ui-all-css'  href='http://citystudiovancouver.com/wp-content/plugins/wp-ui/css/themes/wpui-all.css?ver=15a2b17ae0e0c3d3a7f899370e0f050e' type='text/css' media='all' />
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js?ver=15a2b17ae0e0c3d3a7f899370e0f050e'></script>
+<script type='text/javascript' src='http://citystudiovancouver.com/wp-includes/js/jquery/ui/core.min.js?ver=15a2b17ae0e0c3d3a7f899370e0f050e'></script>
+<script type='text/javascript' src='http://citystudiovancouver.com/wp-includes/js/jquery/ui/widget.min.js?ver=15a2b17ae0e0c3d3a7f899370e0f050e'></script>
+<script type='text/javascript' src='http://citystudiovancouver.com/wp-includes/js/jquery/ui/tabs.min.js?ver=15a2b17ae0e0c3d3a7f899370e0f050e'></script>
+<script type='text/javascript' src='http://citystudiovancouver.com/wp-includes/js/jquery/ui/accordion.min.js?ver=15a2b17ae0e0c3d3a7f899370e0f050e'></script>
+<script type='text/javascript' src='http://citystudiovancouver.com/wp-includes/js/jquery/ui/mouse.min.js?ver=15a2b17ae0e0c3d3a7f899370e0f050e'></script>
+<script type='text/javascript' src='http://citystudiovancouver.com/wp-includes/js/jquery/ui/resizable.min.js?ver=15a2b17ae0e0c3d3a7f899370e0f050e'></script>
+<script type='text/javascript' src='http://citystudiovancouver.com/wp-includes/js/jquery/ui/draggable.min.js?ver=15a2b17ae0e0c3d3a7f899370e0f050e'></script>
+<script type='text/javascript' src='http://citystudiovancouver.com/wp-includes/js/jquery/ui/button.min.js?ver=15a2b17ae0e0c3d3a7f899370e0f050e'></script>
+<script type='text/javascript' src='http://citystudiovancouver.com/wp-includes/js/jquery/ui/position.min.js?ver=15a2b17ae0e0c3d3a7f899370e0f050e'></script>
+<script type='text/javascript' src='http://citystudiovancouver.com/wp-includes/js/jquery/ui/dialog.min.js?ver=15a2b17ae0e0c3d3a7f899370e0f050e'></script>
+<script type='text/javascript' src='http://citystudiovancouver.com/wp-includes/js/jquery/ui/sortable.min.js?ver=15a2b17ae0e0c3d3a7f899370e0f050e'></script>
+<script type='text/javascript' src='http://citystudiovancouver.com/?wpui-script=before&#038;ver=15a2b17ae0e0c3d3a7f899370e0f050e'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpUIOpts = {"wpUrl":"http:\/\/citystudiovancouver.com","pluginUrl":"http:\/\/citystudiovancouver.com\/wp-content\/plugins\/wp-ui\/","enableTabs":"on","enableAccordion":"on","enableSpoilers":"on","enableDialogs":"on","tabsEffect":"none","effectSpeed":"200","accordEffect":"none","alwaysRotate":"stop","tabsEvent":"click","collapsibleTabs":"off","accordEvent":"click","singleLineTabs":"","accordAutoHeight":"on","accordCollapsible":"off","accordEasing":"false","mouseWheelTabs":"false","bottomNav":"off","tabPrevText":"Prev","tabNextText":"Next","spoilerShowText":"","spoilerHideText":"","cookies":"on","hashChange":"on","docWriteFix":"on","linking_history":"on","misc_options":"hashing_method=1\ntinymce_icon_row=3"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://citystudiovancouver.com/wp-content/plugins/wp-ui/js/wp-ui.js?ver=15a2b17ae0e0c3d3a7f899370e0f050e'></script>
+<link rel='https://api.w.org/' href='http://citystudiovancouver.com/wp-json/' />
+
+<link rel='shortlink' href='http://citystudiovancouver.com/?p=251' />
+<link rel="alternate" type="application/json+oembed" href="http://citystudiovancouver.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcitystudiovancouver.com%2Fopportunities%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://citystudiovancouver.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcitystudiovancouver.com%2Fopportunities%2F&#038;format=xml" />
+<!-- Start Genie WP Favicon -->
+<link rel="shortcut icon" href="http://citystudiovancouver.com/wp-content/uploads/gwpf_icon/favicon.png" />
+<link rel="apple-touch-icon" href="http://citystudiovancouver.com/wp-content/uploads/gwpf_icon/favicon.png" />
+<!-- End Genie WP Favicon -->
+
+<!-- Google Webmaster Tools plugin for WordPress -->
+<meta name="google-site-verification" content="vtSJ0FQDNJQROPaTj5BY9BZ61eE_mZASjR_SFx3mYmI" />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//citystudiovancouver.com/?wordfence_logHuman=1&hid=C00F1800AC823BB6C4C7B0648A3ED9C8');
+</script>	<style type="text/css">
+		#header {background-image: url(http://citystudiovancouver.com/wp-content/uploads/2015/11/cropped-header-blue-nov-5-20152.jpg);}
+		#header .container { display:block; height: 250px!important; }
+	</style>
+	<meta name="google-site-verification" content="srnFtF-0toyStYncWUHp0l9by7gyyvTc6yf74mcNZ8I" />
+</head>
+<body class="page page-id-251 page-template page-template-page-sidebar page-template-page-sidebar-php bp">
+	<div id="wrapper">
+		<div id="page" class="hfeed">
+			<header id="header" role="banner">
+					<a href="http://citystudiovancouver.com" class="container">&nbsp;</a>
+			</header>
+			<div id="main">
+				<div id="main-inner" class="container"><div id="sidebar-a" class="widget-area secondary span-4">
+	<div class="sidebar-content span-4">
+		<li id="nav_menu-7" class="widget widget_nav_menu"><div class="menu-primary-navigation-container"><ul id="menu-primary-navigation" class="menu"><li id="menu-item-2337" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2337 menu-item-home"><a href="http://citystudiovancouver.com">Home</a></li>
+<li id="menu-item-2338" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2338 menu-item-what-we-do"><a href="http://citystudiovancouver.com/what-we-do/">What We Do</a></li>
+<li id="menu-item-2339" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2339 menu-item-people"><a href="http://citystudiovancouver.com/people/">People</a></li>
+<li id="menu-item-2341" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2341 menu-item-projects"><a href="http://citystudiovancouver.com/projects/">Projects</a></li>
+<li id="menu-item-4218" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4218 menu-item-partner-application"><a href="http://citystudiovancouver.com/partner-application/">Campus Courses</a></li>
+<li id="menu-item-2342" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2342 menu-item-publications"><a href="http://citystudiovancouver.com/publications/">Publications</a></li>
+<li id="menu-item-2343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2343 menu-item-partners"><a href="http://citystudiovancouver.com/partners/">Partners</a></li>
+<li id="menu-item-2344" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2344 menu-item-events"><a href="http://citystudiovancouver.com/events/">Events</a></li>
+<li id="menu-item-2345" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-251 current_page_item menu-item-2345 menu-item-opportunities"><a href="http://citystudiovancouver.com/opportunities/">NEW! Join Us!</a></li>
+<li id="menu-item-2346" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2346 menu-item-contact-us"><a href="http://citystudiovancouver.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-2348" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2348 menu-item-student-application"><a href="http://citystudiovancouver.com/student-application/">For Students</a></li>
+</ul></div></li>	 		</div>
+	&nbsp;
+</div><!-- #sidebar .widget-area -->
+	<div id="content" class="opportunities span-15 primary">
+		<header class="page-header">
+			<h1 class="entry-title">Join Us!</h1>
+		</header><!-- .entry-header -->
+						<article id="post-251" class="post-251 page type-page status-publish hentry" role="article">
+				<div class="entry-content">
+					<h3>EMPLOYMENT OPPORTUNITY &#8211; Communications and Engagement Coordinator</h3>
+<h3><span style="color: #ffffff;"><b>.</b></span></h3>
+<p>CityStudio is seeking a highly organized, energetic, friendly and self-directed Communications &amp; Engagement Coordinator who shares our vision of collaborative city building, and is driven to work with our team and students to tell the story of our practices of collaboration, engagement and innovation through communications, media and events. This person will have a proven record of writing, relationship building, media &amp; social media strategy and activation.</p>
+<p><span style="color: #ffffff;">.</span></p>
+<p><b>POSITION:  </b><span style="font-weight: 400;">Full time, 1 year contract position, with standard 3 month probationary period.</span></p>
+<p><strong>POSITION DESCRIPTION: </strong>Read more <a href="http://citystudiovancouver.com/wp-content/uploads/2012/03/CityStudio-Communications-and-Engagement-POSTING-Jan-2017.pdf" target="_blank">here</a></p>
+<p>&#8211; &#8211;</p>
+<p align="center"><span style="color: #ffffff;">.</span></p>
+									</div><!-- .entry-content -->
+							</article><!-- #post-251 -->
+	</div>
+	<div id="sidebar-b" class="secondary span-5 last">
+		<div class="sidebar-content span-5 last">
+				<blockquote><p>&#8220;I like being at citystudio and liken it to being with family &#8211;  citystudio is like a nesting place for personal growth &#8211; it doesn&#8217;t matter what we&#8217;re doing because I know that I will be a better person for it.&#8221;</p></blockquote>
+<p>—Shelby Tay, Researcher, Spring 2012</p>
+		</div>
+	</div>
+						</div><!-- #main-inner  -->
+			</div><!-- #main  -->
+		</div><!-- #page -->
+	</div><!-- #wrapper -->
+	<footer id="colophon" role="contentinfo">
+		<div class="container">
+			<div class="span-4">
+				<li id="social-widget-5" class="widget Social_Widget"><h3>Follow Us!</h3><div class="socialmedia-buttons smw_left"><a href="https://www.facebook.com/CityStudioVancouver" rel="nofollow" target="_blank"><img width="32" height="32" src="http://66.147.244.223/~citystu3/wp-content/themes/citystudio/img/social//facebook.png" 
+				alt="Follow us on Facebook" 
+				title="Follow us on Facebook" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade" /></a><a href="http://twitter.com/citystudiovan" rel="nofollow" target="_blank"><img width="32" height="32" src="http://66.147.244.223/~citystu3/wp-content/themes/citystudio/img/social//twitter.png" 
+				alt="Follow us on Twitter" 
+				title="Follow us on Twitter" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade" /></a><a href="https://www.linkedin.com/company/citystudio-vancouver" rel="nofollow" target="_blank"><img width="32" height="32" src="http://66.147.244.223/~citystu3/wp-content/themes/citystudio/img/social//linkedin.png" 
+				alt="Follow us on LinkedIn" 
+				title="Follow us on LinkedIn" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade" /></a><a href="http://www.flickr.com/photos/citystudiovancouver/" rel="nofollow" target="_blank"><img width="32" height="32" src="http://66.147.244.223/~citystu3/wp-content/themes/citystudio/img/social//flickr.png" 
+				alt="Follow us on Flickr" 
+				title="Follow us on Flickr" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade" /></a><a href="http://instagram.com/CityStudioVan" rel="nofollow" target="_blank"><img width="32" height="32" src="http://66.147.244.223/~citystu3/wp-content/themes/citystudio/img/social//instagram.png" 
+				alt="Follow us on Instagram" 
+				title="Follow us on Instagram" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade" /></a><a href="http://www.youtube.com/user/CityStudioVancouver" rel="nofollow" target="_blank"><img width="32" height="32" src="http://66.147.244.223/~citystu3/wp-content/themes/citystudio/img/social//youtube.png" 
+				alt="Follow us on YouTube" 
+				title="Follow us on YouTube" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade" /></a></div></li>			</div>
+			<div class="col span-15">
+								<div class="col span-5">
+					<li id="nav_menu-8" class="widget widget_nav_menu"><div class="menu-footer-navigation-a-container"><ul id="menu-footer-navigation-a" class="menu"><li id="menu-item-1674" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1674 menu-item-citystudiovancouver.com"><a href="http://citystudiovancouver.com/">Home</a></li>
+<li id="menu-item-1675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1675 menu-item-what-we-do"><a href="http://citystudiovancouver.com/what-we-do/">What We Do</a></li>
+<li id="menu-item-1676" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1676 menu-item-projects"><a href="http://citystudiovancouver.com/projects/">Projects</a></li>
+<li id="menu-item-1678" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1678 menu-item-people"><a href="http://citystudiovancouver.com/people/">People</a></li>
+<li id="menu-item-1673" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1673 menu-item-partners"><a href="http://citystudiovancouver.com/partners/">Funding</a></li>
+<li id="menu-item-1691" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1691 menu-item-publications"><a href="http://citystudiovancouver.com/publications/">Publications</a></li>
+</ul></div></li>				</div>
+				<div class="col span-5">
+					<li id="nav_menu-6" class="widget widget_nav_menu"><div class="menu-footer-navigation-b-container"><ul id="menu-footer-navigation-b" class="menu"><li id="menu-item-1681" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1681 menu-item-student-application"><a href="http://citystudiovancouver.com/student-application/">Fall 2016: Semester at CityStudio</a></li>
+<li id="menu-item-1682" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1682 menu-item-inside-the-studio"><a href="http://citystudiovancouver.com/program/inside-the-studio/">Studio Approach</a></li>
+<li id="menu-item-1683" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1683 menu-item-students"><a href="http://citystudiovancouver.com/students/">Our Students</a></li>
+<li id="menu-item-1684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1684 menu-item-our-guests"><a href="http://citystudiovancouver.com/program/our-guests/">Past Guests</a></li>
+<li id="menu-item-1685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1685 menu-item-partner-application"><a href="http://citystudiovancouver.com/partner-application/">Campus Course Network</a></li>
+</ul></div></li>				</div>
+				<div class="col span-5 last">
+					<li id="nav_menu-9" class="widget widget_nav_menu"><div class="menu-footer-navigation-c-container"><ul id="menu-footer-navigation-c" class="menu"><li id="menu-item-1690" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1690 menu-item-contact-us"><a href="http://citystudiovancouver.com/contact-us/">Get in touch!</a></li>
+<li id="menu-item-1686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1686 menu-item-funding"><a href="http://citystudiovancouver.com/funding/">Funding Partners</a></li>
+<li id="menu-item-1688" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1688 menu-item-events"><a href="http://citystudiovancouver.com/events/">Events</a></li>
+<li id="menu-item-1689" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-251 current_page_item menu-item-1689 menu-item-opportunities"><a href="http://citystudiovancouver.com/opportunities/">Join Us!</a></li>
+</ul></div></li>				</div>
+			</div>
+			<div class="col span-5 last">
+				<li id="text-5" class="widget widget_text"><h3>We are located at:</h3>			<div class="textwidget"><p>1800 Spyglass Place<br />
+Vancouver, BC</p>
+<p>604-874-6401</p>
+</div>
+		</li><li id="text-2" class="widget widget_text">			<div class="textwidget"><small>&copy Copyright<br />CityStudio Vancouver </small></div>
+		</li>			</div>
+		</div>
+	</footer><!-- #colophon -->
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-33205094-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+	
+<script type='text/javascript' src='http://citystudiovancouver.com/wp-content/themes/citystudio/js/jquery.formalize.min.js?ver=15a2b17ae0e0c3d3a7f899370e0f050e'></script>
+<script type='text/javascript' src='http://citystudiovancouver.com/wp-content/themes/citystudio/js/jquery.address.min.js?ver=15a2b17ae0e0c3d3a7f899370e0f050e'></script>
+<script type='text/javascript' src='http://citystudiovancouver.com/wp-content/themes/citystudio/js/jquery.cycle.all.js?ver=15a2b17ae0e0c3d3a7f899370e0f050e'></script>
+<script type='text/javascript' src='http://citystudiovancouver.com/wp-content/themes/citystudio/js/scripts.js?ver=15a2b17ae0e0c3d3a7f899370e0f050e'></script>
+<script type='text/javascript' src='http://citystudiovancouver.com/wp-includes/js/comment-reply.min.js?ver=15a2b17ae0e0c3d3a7f899370e0f050e'></script>
+<script type='text/javascript' src='http://citystudiovancouver.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=15a2b17ae0e0c3d3a7f899370e0f050e-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/citystudiovancouver.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://citystudiovancouver.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=15a2b17ae0e0c3d3a7f899370e0f050e'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/citystudiovancouver.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/citystudiovancouver.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://citystudiovancouver.com/wp-includes/js/thickbox/thickbox.js?ver=15a2b17ae0e0c3d3a7f899370e0f050e-20121105'></script>
+<script type='text/javascript' src='http://citystudiovancouver.com/wp-includes/js/wp-embed.min.js?ver=15a2b17ae0e0c3d3a7f899370e0f050e'></script>
 </body>
+</html>
+  
+</body>
+</html>
